@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyPaperStory">
-        <activity android:name=".PageOne"></activity>
+        <activity android:name=".PageFive"></activity>
+        <activity android:name=".PageFour" />
+        <activity android:name=".PageThree" />
+        <activity android:name=".PageTwo" />
+        <activity android:name=".PageOne" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
